@@ -140,7 +140,7 @@ int Fun4All_G4_sPHENIX(
   // add the settings for other with [1], next with [2]...
   if (Input::SIMPLE)
   {
-    INPUTGENERATOR::SimpleEventGenerator[0]->add_particles(310, 1);
+    INPUTGENERATOR::SimpleEventGenerator[0]->add_particles(421, 1);
  //   INPUTGENERATOR::SimpleEventGenerator[0]->add_particles(211, 2);
  //   INPUTGENERATOR::SimpleEventGenerator[0]->add_particles(-211, 2);	
     // INPUTGENERATOR::SimpleEventGenerator[0]->add_particles(11, 1);
