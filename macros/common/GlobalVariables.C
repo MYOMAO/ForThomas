@@ -113,7 +113,7 @@ namespace G4TRACKING
 
 namespace EVTGENDECAYER
 {
-   std::string DecayFile = "EvtGen/D0.KPi.DEC"; //The default is no need to force decay anything and use the default file DECAY.DEC from the official EvtGen software
+   std::string DecayFile = "D0.KPi.DEC"; //The default is no need to force decay anything and use the default file DECAY.DEC from the official EvtGen software
 							   //DECAY.DEC is located at: https://gitlab.cern.ch/evtgen/evtgen/-/blob/master/DECAY.DEC
 }
 
